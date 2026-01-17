@@ -5,8 +5,9 @@ Course materials and exercises for the Time Series Forecasting class.
 ## Contents
 
 ### Time Series Exploration
-- `class_1_data_aggregation.ipynb` - Data aggregation techniques for time series analysis
+- `class_1_data_aggregation.ipynb` - Chapter 12: Data aggregation techniques for time series analysis
 - `class_2_time_patterns.ipynb` - Identifying and analyzing temporal patterns
+- `smart_meter_data.csv` - Smart meter dataset used for examples and exercises
 
 ## Setup
 
@@ -22,6 +23,15 @@ cd time_series_forecasting
 pip install -r requirements.txt
 jupyter notebook
 ```
+
+## Required Packages
+
+- pandas - Data manipulation and analysis
+- numpy - Numerical computing
+- matplotlib - Data visualization
+- seaborn - Statistical data visualization
+- plotly - Interactive visualizations
+- jupyter - Notebook environment
 
 ## Resources
 
