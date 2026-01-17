@@ -5,7 +5,7 @@ Course materials and exercises for the Time Series Forecasting class.
 ## Contents
 
 ### Time Series Exploration
-- `class_1_data_aggregation.ipynb` - Chapter 12: Data aggregation techniques for time series analysis
+- `class_1_data_aggregation.ipynb` - Data aggregation techniques for time series analysis
 - `class_2_time_patterns.ipynb` - Identifying and analyzing temporal patterns
 
 
