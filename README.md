@@ -7,7 +7,7 @@ Course materials and exercises for the Time Series Forecasting class.
 ### Time Series Exploration
 - `class_1_data_aggregation.ipynb` - Chapter 12: Data aggregation techniques for time series analysis
 - `class_2_time_patterns.ipynb` - Identifying and analyzing temporal patterns
-- `smart_meter_data.csv` - Smart meter dataset used for examples and exercises
+
 
 ## Setup
 
