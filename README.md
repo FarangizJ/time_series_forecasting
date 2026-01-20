@@ -10,7 +10,9 @@ Course materials and exercises for the Time Series Forecasting class.
 - `class_3_acf_pacf.ipynb` - Autocorrelation and partial autocorrelation functions  
   
 - `smart_meter_data.csv` - Smart meter dataset 
-- `UK_electricity_demand_2024.csv` - UK electricity demand dataset
+- `UK_electricity_demand_2024.csv` - UK electricity demand dataset for the year 2024
+- `AUS monthly beer production.csv`- quaterly beer production in Australia (1956-1995)
+  
 
 ## Setup
 
@@ -35,7 +37,7 @@ jupyter notebook
 - seaborn - Statistical data visualization
 - plotly - Interactive visualizations
 - jupyter - Notebook environment
-- statmodels
+- statsmodels - Statistical models and time series analysis
 
 ## Resources
 
