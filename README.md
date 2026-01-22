@@ -49,7 +49,7 @@ jupyter notebook
 
 ### Datasets
 accessing datasets in **Python**:   
-  *import statsmodels.api as sm *   
+  *import statsmodels.api as sm*   
   Common time series datasets in statsmodels:
   sunspots - Monthly sunspot data  
   co2 - Atmospheric CO2 concentrations  
