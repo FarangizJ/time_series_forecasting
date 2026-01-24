@@ -43,8 +43,12 @@ jupyter notebook
 
 ### Books
 - Hyndman & Athanasopoulos - *Forecasting: Principles and Practice* (OTexts, 2018)
-  [Free online resources] (https://otexts.com/fpp3/)
-- Nielsen - *Practical Time Series Analysis* (O'Reilly, 2019)
+  [Free online resources] (https://otexts.com/fpp3/)  
+  This book offers an excellent introduction to the basics of preprocessing time series data and models to make forecasts. 
+  Examples are run in R  
+- Nielsen - *Practical Time Series Analysis* (O'Reilly, 2019)  
+  Practical guide on most common data engineering and analysis challenges in time series, using both traditional statistical and modern machine learning techniques. 
+  Well-rounded introduction to time series in both R and Python.   
 - Nield - *Essential Math for Data Science* (O'Reilly, 2022)
 
 ### Datasets
