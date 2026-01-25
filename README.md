@@ -11,7 +11,9 @@ Course materials and exercises for the Time Series Forecasting class.
   
 - `smart_meter_data.csv` - Smart meter dataset 
 - `UK_electricity_demand_2024.csv` - UK electricity demand dataset for the year 2024
-- `AUS monthly beer production.csv`- quaterly beer production in Australia (1956-1995)
+- `AUS quaterly beer production.csv`- quaterly beer production in Australia (1956-2010)
+- `AUS monthly beer production.csv`- monthly beer production in Australia (1956-2010)
+  
   
 
 ## Setup
